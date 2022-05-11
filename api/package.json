@@ -21,7 +21,7 @@
     "ethereumjs-util": "^6.2.0",
     "graphql-tools": "^6.0.15",
     "mongodb": "^3.5.9",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "web3-eth-contract": "^1.2.7"
   },
   "devDependencies": {
