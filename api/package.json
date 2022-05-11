@@ -19,7 +19,7 @@
     "dataloader": "^2.0.0",
     "eth-sig-util": "^2.5.3",
     "ethereumjs-util": "^6.2.0",
-    "graphql-tools": "^6.0.15",
+    "graphql-tools": "^6.2.6",
     "mongodb": "^3.5.9",
     "node-fetch": "^2.6.0",
     "web3-eth-contract": "^1.2.7"
