@@ -22,7 +22,7 @@
     "graphql-tools": "^6.0.15",
     "mongodb": "^3.5.9",
     "node-fetch": "^2.6.0",
-    "web3-eth-contract": "^1.2.7"
+    "web3-eth-contract": "^1.7.3"
   },
   "devDependencies": {
     "@rollup/plugin-json": "^4.0.3",
