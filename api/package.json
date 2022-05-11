@@ -14,7 +14,7 @@
   "license": "GPLv3",
   "dependencies": {
     "apollo-link-http": "^1.5.17",
-    "apollo-server": "^2.16.0",
+    "apollo-server": "^2.25.3",
     "base64-url": "^2.3.2",
     "dataloader": "^2.0.0",
     "eth-sig-util": "^2.5.3",
