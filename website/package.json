@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@aragon/ui": "^1.0.0",
-    "@aragon/wrapper": "^5.0.0-rc.26",
+    "@aragon/wrapper": "^5.5.3",
     "clipboard-polyfill": "^2.8.6",
     "crypto-js": "^4.0.0",
     "date-fns": "^2.0.1",
