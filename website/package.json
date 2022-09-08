@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@aragon/ui": "^1.0.0",
-    "@aragon/wrapper": "^5.0.0-rc.26",
+    "@aragon/wrapper": "^5.5.3",
     "clipboard-polyfill": "^2.8.6",
     "crypto-js": "^4.0.0",
     "date-fns": "^2.0.1",
@@ -30,7 +30,7 @@
     "react-spring": "^8.0.27",
     "styled-components": "^4.3.2",
     "use-wallet": "^0.5.0",
-    "web3": "^1.2.6"
+    "web3": "^1.2.7"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
